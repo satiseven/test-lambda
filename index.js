@@ -1,3 +1,3 @@
-export default handler(event){
-    console.log(event);
+export default function handler(event) {
+  console.log(event);
 }
